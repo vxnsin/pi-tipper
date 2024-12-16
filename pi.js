@@ -42,8 +42,8 @@ function setupInput() {
       progress += chalk.green(str); 
       updateProgress();
 
-      if (currentIndex === PI.length) {
-        console.log(chalk.blue('\n\nUnbelievable! You guessed all known digits of PI.'));
+      if (currentIndex === PI.length) { //It's useless like the Project
+        console.log(chalk.blue('\n\nUnbelievable! You guessed all digits of PI.'));
         process.exit();
       }
     } else {
