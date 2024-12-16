@@ -37,7 +37,7 @@
 4. Run the game:
 
     ```bash
-    node index.js
+    node pi.js
     ```
 
 ## Why?
