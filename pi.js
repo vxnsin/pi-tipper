@@ -20,7 +20,7 @@ function showBanner() {
 function updateProgress() {
   process.stdout.clearLine(0);
   process.stdout.cursorTo(0); 
-  process.stdout.write(`> ${progress}`);
+  process.stdout.write(`❯ ${progress}`);
 }
 
 function setupInput() {
