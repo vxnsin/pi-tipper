@@ -19,7 +19,7 @@
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/vensin/pi-tipper.git
+    git clone https://github.com/vxnsin/pi-tipper.git
     ```
 
 2. Navigate to the project folder:
