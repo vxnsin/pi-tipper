@@ -46,4 +46,4 @@ Because sometimes, doing something totally unnecessary is the most fun. Who need
 
 ## License
 
-© Vensin 2025. This project is so useless, I don't even care about a copyright. Why not? 😜
+© Vensin 2025. This project is so useless, I don't even care about a copyright.
